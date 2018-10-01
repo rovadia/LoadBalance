@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/LoadBalance.dir/main.c.o  -o LoadBalance.exe -Wl,--out-implib,libLoadBalance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
